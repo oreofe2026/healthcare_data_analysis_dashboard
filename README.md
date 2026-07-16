@@ -11,3 +11,6 @@ The goal of this project is to explore patient activity, treatment costs, recove
 
 Dashboard interaction
 <a href="https://github.com/oreofe2026/healthcare_data_analysis_dashboard/blob/main/Healthcare_data_analysis_dashboard.png">View Dashboard</a>
+
+Dashboard
+<img width="1355" height="600" alt="Healthcare_data_analysis_dashboard" src="https://github.com/user-attachments/assets/b8cddf21-5e76-495d-a9db-e676a426e167" />
