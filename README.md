@@ -1,2 +1,3 @@
-# healthcare_data_analysis_dashboard
-This project analyses a healthcare patient analytics dataset using Microsoft Excel. The dataset contains 5,000 patient visit records with information such as visit date, age group, gender, region, department, treatment type, visit type, length of stay, treatment cost, recovery score, and readmission risk.
+# Healthcare-Data-Analysis (Interactive Dashboard creation using Ms Excel)
+## Project Objective
+The goal of this project is to explore patient activity, treatment costs, recovery outcomes, and readmission risk to generate useful healthcare insights that could support NHS-style operational reporting and decision-making.
