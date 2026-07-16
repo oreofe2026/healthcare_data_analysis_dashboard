@@ -9,4 +9,5 @@ The goal of this project is to explore patient activity, treatment costs, recove
 3. Which treatment type has the highest average cost?
 5. What is the average recovery score by treatment type?
 
-Dashboard interaction 
+Dashboard interaction
+<a href="https://github.com/oreofe2026/healthcare_data_analysis_dashboard/blob/main/Healthcare_data_analysis_dashboard.png">View Dashboard</a>
